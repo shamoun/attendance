@@ -1,3 +1,5 @@
 Attendance::Application.routes.draw do
-  get '/rollcall' => 'students/list'
+
+  get "/rollcall" => "students/list"
+
 end
