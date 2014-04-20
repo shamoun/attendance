@@ -1,5 +1,11 @@
-Student
+Student:
   - first_name: string
   - last_name: string
   - favorite_color: string
   - bio: text
+
+Book:
+  - title: string
+  - author: string
+  - year: integer
+
